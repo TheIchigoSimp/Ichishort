@@ -27,13 +27,8 @@ MongoDB instance
 Redis server
 
 Clone and Run
-# Clone frontend
-git clone https://github.com/yourusername/ichishort-frontend.git
-cd ichishort-frontend
-npm install
-npm run dev
 
-# Clone backend
+# Clone
 git clone https://github.com/TheIchigoSimp/Ichishort.git
 cd Backend
 npm install
@@ -41,6 +36,9 @@ cp .env.example .env
 # Update environment variables
 npm run dev
 
+cd ichishort-frontend
+npm install
+npm run dev
 
 Visit http://localhost:5173
  for the frontend and try creating short URLs.
