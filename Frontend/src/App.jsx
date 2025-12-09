@@ -186,7 +186,7 @@ function App() {
       <header className="app-header">
         <div className="brand">
           <span className="brand-mark">∥</span>
-          <span className="brand-text">Ichigo Short</span>
+          <span className="brand-text">IchiShort</span>
         </div>
 
         <div className="auth-summary">
@@ -378,8 +378,7 @@ function App() {
               </div>
 
               <p className="muted small">
-                Auth endpoints are wired to your backend so you&apos;re ready
-                when you want private links or analytics.
+                Sign in to save your shorten URLs for future.
               </p>
 
               <form className="form" onSubmit={handleAuthSubmit}>
