@@ -25,7 +25,7 @@ app.use(cors(
             "http://localhost:5174",
 
             //Add Prod URL
-            "https://gleaming-curiosity-production.up.railway.app/"
+            "https://ichishort-frontend.onrender.com"
         ]
     }
 ));
