@@ -6,13 +6,13 @@ export default defineConfig({
 
   server: {
     allowedHosts: [
-      'keen-smile-production.up.railway.app',
+      '.railway.app',
     ],
   },
 
   preview: {
     allowedHosts: [
-      'keen-smile-production.up.railway.app',
+      '.railway.app',
     ],
   },
 })
