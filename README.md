@@ -1,4 +1,4 @@
-Ichishort – Production-Grade URL Shortener 🚀
+# Ichishort – Production-Grade URL Shortener 🚀
 
 
 
@@ -10,7 +10,7 @@ Ichishort is a full-stack, production-ready URL shortener built with modern web 
 
 
 
-Features ✨
+# Features ✨
 
 Custom short URLs / aliases
 
@@ -25,7 +25,7 @@ Responsive & clean UI – built with React + TailwindCSS
 
 
 
-Tech Stack 🛠️
+# Tech Stack 🛠️
 
 Frontend	Backend	Database	Cache	Deployment
 
@@ -37,7 +37,7 @@ Other libraries/tools: React Router, Axios, TailwindCSS, Recharts (for charts).
 
 
 
-Getting Started 🚀
+# Getting Started 🚀
 
 Prerequisites
 
@@ -50,7 +50,7 @@ Redis server
 
 
 
-Clone and Run
+# Clone and Run
 
 # Clone
 
@@ -76,12 +76,12 @@ npm run dev
 
 Visit http://localhost:5173
 
- for the frontend and try creating short URLs.
+for the frontend and try creating short URLs.
 
 
 
 
-API Endpoints 🔗
+# API Endpoints 🔗
 
 Route	Method	Description
 
@@ -98,7 +98,7 @@ Route	Method	Description
 
 
 
-Deployment 🌐
+# Deployment 🌐
 
 Works with AWS EC2, Google Cloud Run, or Render
 
@@ -107,7 +107,7 @@ Redis caching ensures blazing fast redirects
 
 
 
-Why Ichishort is Portfolio/Interview-Worthy 💼
+# Why Ichishort is Portfolio/Interview-Worthy 💼
 
 
 Shows end-to-end full-stack skills (React + Node + MongoDB + Redis).
@@ -123,7 +123,7 @@ Rate-limiting per IP or user.
 
 
 
-Future Improvements 🚀
+# Future Improvements 🚀
 
 Add social login (Google, GitHub)
 
