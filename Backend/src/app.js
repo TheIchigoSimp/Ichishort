@@ -22,9 +22,10 @@ app.use(cors(
     {
         origin: [
             "http://localhost:5173",
-            "http://localhost:5174"
+            "http://localhost:5174",
 
             //Add Prod URL
+            "https://gleaming-curiosity-production.up.railway.app/"
         ]
     }
 ));
