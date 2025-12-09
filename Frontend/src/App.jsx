@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
 import './App.css';
-import { apiRequest, getApiBaseUrl } from './api';
+import { apiRequest, getApiBaseUrl } from './api.js';
 
 function useToast() {
   const [toast, setToast] = useState(null);

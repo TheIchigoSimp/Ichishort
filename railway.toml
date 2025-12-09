@@ -8,4 +8,4 @@
   root = "Frontend"
   build = "npm install && npm run build"
   staticPublishPath = "dist"
-  env = { VITE_API_BASE_URL = "https://<backend-public-url>/api" }
+  env = { VITE_API_BASE_URL = "https://ichishort-production.up.railway.app/api" }
